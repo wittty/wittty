@@ -3,3 +3,9 @@ travis:
   last_name: "Johnson"
   email: "travis@travisjohnson.co"
   profile_name: "travisjohnson"
+
+jim:
+  first_name: "Jim"
+  last_name: "Hoskins"
+  email: "jim@teamtreehouse.com"
+  profile_name: "jimhoskins"
